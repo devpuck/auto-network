@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auto-network.iml" filepath="$PROJECT_DIR$/auto-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms-auto-network-api/wms-auto-network-api.iml" filepath="$PROJECT_DIR$/wms-auto-network-api/wms-auto-network-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms-auto-network-biz/wms-auto-network-biz.iml" filepath="$PROJECT_DIR$/wms-auto-network-biz/wms-auto-network-biz.iml" />
+    </modules>
+  </component>
+</project>
